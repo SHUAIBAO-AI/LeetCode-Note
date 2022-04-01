@@ -46,7 +46,7 @@ nums.index(num2)，查找 num2 的索引
 
 通过字典的方法，查找效率快很多，执行速度大幅缩短，共 88ms。
 
-代码如下：
+方法四代码如下：
 ```Python
 def twoSum(nums, target):
     hashmap={}
